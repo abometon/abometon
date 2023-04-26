@@ -12,7 +12,7 @@
 🐦 [Twitter][Twitter] **|** 
 👔 [LinkedIn][LinkedIn]
 
-[banner]: https://raw.githubusercontent.com/abomeotn/abometon/main/linkedin.jpg
+[banner]: https://raw.githubusercontent.com/abometon/abometon/main/linkedin.jpg
 [GammaTechSchool]: https://gammatech.school
 [Belladonna]: https://instagram.com/belladonna.club
 [Twitter]: https://twitter.com/abometon
