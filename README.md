@@ -1,7 +1,8 @@
 [![bg][banner]][LinkedIn]
 
 ## Hi there 👋
-### I'm a Data Analytics student at [GammaTechSchool][GammaTechSchool] and trying to do my best. 
+### Trained as a Data Analytics student at [GammaTechSchool][GammaTechSchool] and trying to do my best.
+### 💥🧠🔧 Under construction... New projects coming soon 🔧🧠💥
 
 
 - 🔭 I’m currently working on [Belladonna Club][Belladonna]
