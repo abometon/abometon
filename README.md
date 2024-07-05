@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on [Belladonna Club][Belladonna]
-- 🌱 Nowadays I'm learning SQL, Looker, Python...
+- 🌱 Nowadays I'm teaching SQL, Looker, Python...
 - 💜 Loving music, learning, dance, and tasty food
 - ⚡ Fun fact: when my code not works I need coffee
 
