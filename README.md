@@ -2,11 +2,12 @@
 
 ## Hi there 👋
 ### Trained as a Data Analytics student at [GammaTechSchool][GammaTechSchool] and trying to do my best.
+### I am currently training a search engine for Mutua Madrileña and providing back-end development training.
 ### 💥🧠🔧 Under construction... New projects coming soon 🔧🧠💥
 
 
 - 🔭 I’m currently working on [Belladonna Club][Belladonna]
-- 🌱 Nowadays I'm teaching SQL, Looker, Python...
+- 🌱 Nowadays I'm teaching SQL, Looker, Python, Java, Spring Boot...
 - 💜 Loving music, learning, dance, and tasty food
 - ⚡ Fun fact: when my code not works I need coffee
 
